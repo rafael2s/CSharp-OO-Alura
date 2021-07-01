@@ -1,0 +1,12 @@
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.exe
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.deps.json
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.runtimeconfig.json
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.runtimeconfig.dev.json
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.dll
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.pdb
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\10-CalculaPoupanca\obj\Debug\netcoreapp3.1\P10-CalculaPoupanca.AssemblyInfoInputs.cache
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\10-CalculaPoupanca\obj\Debug\netcoreapp3.1\P10-CalculaPoupanca.AssemblyInfo.cs
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\10-CalculaPoupanca\obj\Debug\netcoreapp3.1\P10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\10-CalculaPoupanca\obj\Debug\netcoreapp3.1\P10-CalculaPoupanca.dll
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\10-CalculaPoupanca\obj\Debug\netcoreapp3.1\P10-CalculaPoupanca.pdb
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\10-CalculaPoupanca\obj\Debug\netcoreapp3.1\P10-CalculaPoupanca.genruntimeconfig.cache
