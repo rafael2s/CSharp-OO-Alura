@@ -12,7 +12,7 @@ Instrutor: Guilherme Matheus Costa
 
 É fundamental ter domínio sobre a principal plataforma .NET. Isso significa, entre outras coisas, saber traduzir para o C# os problemas do dia a dia e programar de acordo com as boas práticas. Sendo assim, aqui você aprenderá desde recursos básicos da linguagem, como variáveis, controle de fluxo e laços de repetição até os principais conceitos do paradigma de orientação a objetos, como classes, herança e interfaces e como tudo isso irá te ajudar no seu dia a dia na programação.
 
-- [ ] C# parte 1: Primeiros passo; [Veja o contéudo clicando aqui](https://cursos.alura.com.br/course/csharp-parte-1-primeiros-passos)
+- [X] C# parte 1: Primeiros passo; [Veja o contéudo clicando aqui](https://cursos.alura.com.br/course/csharp-parte-1-primeiros-passos)
 - [ ] C# parte 2: Introdução à Orientação a Objetos; [Veja o contéudo clicando aqui](https://cursos.alura.com.br/course/csharp-parte-2-introducao-orientacao-objetos)
 - [ ] C# parte 3: Entendendo herança e interface; [Veja o contéudo clicando aqui](https://cursos.alura.com.br/course/csharp-parte-3-heranca-interfaces-polimorfismo)
 
