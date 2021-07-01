@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\rssilva\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\rssilva\\.nuget\\packages"
-    ]
-  }
-}
