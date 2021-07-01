@@ -1,0 +1,13 @@
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\8-Condicionais2\bin\Debug\netcoreapp3.1\8-Condicionais2.exe
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\8-Condicionais2\bin\Debug\netcoreapp3.1\8-Condicionais2.deps.json
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\8-Condicionais2\bin\Debug\netcoreapp3.1\8-Condicionais2.runtimeconfig.json
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\8-Condicionais2\bin\Debug\netcoreapp3.1\8-Condicionais2.runtimeconfig.dev.json
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\8-Condicionais2\bin\Debug\netcoreapp3.1\8-Condicionais2.dll
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\8-Condicionais2\bin\Debug\netcoreapp3.1\8-Condicionais2.pdb
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\8-Condicionais2\obj\Debug\netcoreapp3.1\8-Condicionais2.csproj.AssemblyReference.cache
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\8-Condicionais2\obj\Debug\netcoreapp3.1\8-Condicionais2.AssemblyInfoInputs.cache
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\8-Condicionais2\obj\Debug\netcoreapp3.1\8-Condicionais2.AssemblyInfo.cs
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\8-Condicionais2\obj\Debug\netcoreapp3.1\8-Condicionais2.csproj.CoreCompileInputs.cache
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\8-Condicionais2\obj\Debug\netcoreapp3.1\8-Condicionais2.dll
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\8-Condicionais2\obj\Debug\netcoreapp3.1\8-Condicionais2.pdb
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-1_Primeiros-passos\8-Condicionais2\obj\Debug\netcoreapp3.1\8-Condicionais2.genruntimeconfig.cache

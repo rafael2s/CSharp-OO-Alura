@@ -16,14 +16,17 @@ namespace ConversoesEOutrosTiposNumericos
 
             Console.WriteLine(salarioEmInteiro); //Resultado: 2400 - Perdeu a precisão pois agora a variavel é INT
 
-            long idade;                     // Diferença do INT, LONG e SHORT:
-            idade = 26000000000000000;      // INT Armazena em 32bits (limita o numero em pouco mais de 2 bilhoes)
-                                            // LONG Armazena em 64bits (Aumentando em muito o limite)
-            short quantidadeDeProdutos;     // SHORT Armazena em 16bits (Diminui bastante o limite, proximo a 16mil)
-            quantidadeDeProdutos = 150;     // Os três são INTEIROS
+            long idade;                                            // Diferença do INT, LONG e SHORT:
+            idade = 26000000000000000;                             // INT Armazena em 32bits (limita o numero em pouco mais de 2 bilhoes)
+            Console.WriteLine(idade);                              // LONG Armazena em 64bits (Aumentando em muito o limite)
+
+            short quantidadeDeProdutos;                            // SHORT Armazena em 16bits (Diminui bastante o limite, proximo a 16mil)
+            quantidadeDeProdutos = 150;                            // Os três são INTEIROS
+            Console.WriteLine(quantidadeDeProdutos);
 
             float altura = 1.80f;           // FLOAT não é muito usual no C#, normalemteo se usa "DOUBLE" pois é mais preciso. (Mas queira usar tem que por o sufixo "f"
-
+            Console.WriteLine(altura);
+            
             Console.WriteLine("Execução finalizada, Tecle enter para sair....");
             Console.ReadLine();
         }
