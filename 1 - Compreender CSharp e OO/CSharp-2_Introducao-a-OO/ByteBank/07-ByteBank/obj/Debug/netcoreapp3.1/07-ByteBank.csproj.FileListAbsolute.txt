@@ -1,0 +1,12 @@
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-2_Introducao-a-OO\ByteBank\07-ByteBank\bin\Debug\netcoreapp3.1\07-ByteBank.exe
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-2_Introducao-a-OO\ByteBank\07-ByteBank\bin\Debug\netcoreapp3.1\07-ByteBank.deps.json
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-2_Introducao-a-OO\ByteBank\07-ByteBank\bin\Debug\netcoreapp3.1\07-ByteBank.runtimeconfig.json
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-2_Introducao-a-OO\ByteBank\07-ByteBank\bin\Debug\netcoreapp3.1\07-ByteBank.runtimeconfig.dev.json
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-2_Introducao-a-OO\ByteBank\07-ByteBank\bin\Debug\netcoreapp3.1\07-ByteBank.dll
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-2_Introducao-a-OO\ByteBank\07-ByteBank\bin\Debug\netcoreapp3.1\07-ByteBank.pdb
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-2_Introducao-a-OO\ByteBank\07-ByteBank\obj\Debug\netcoreapp3.1\07-ByteBank.AssemblyInfoInputs.cache
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-2_Introducao-a-OO\ByteBank\07-ByteBank\obj\Debug\netcoreapp3.1\07-ByteBank.AssemblyInfo.cs
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-2_Introducao-a-OO\ByteBank\07-ByteBank\obj\Debug\netcoreapp3.1\07-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-2_Introducao-a-OO\ByteBank\07-ByteBank\obj\Debug\netcoreapp3.1\07-ByteBank.dll
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-2_Introducao-a-OO\ByteBank\07-ByteBank\obj\Debug\netcoreapp3.1\07-ByteBank.pdb
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\1 - Compreender CSharp e OO\CSharp-2_Introducao-a-OO\ByteBank\07-ByteBank\obj\Debug\netcoreapp3.1\07-ByteBank.genruntimeconfig.cache
