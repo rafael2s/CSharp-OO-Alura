@@ -15,3 +15,16 @@
 
 
 **Aula 03 - Construtores e protected**
+
+- O modificador de acesso protected;
+- Preenchendo construtores da classe base a partir da classe derivada, com a sintaxe public Diretor(string cpf) : base(5000, cpf);
+- Classes e métodos abstratos!
+
+**Aula 04 - Mais herança e herança múltipla**
+
+- Trabalhamos mais a fundo com herança;
+- Trabalhamos mais a fundo com abstrações.
+
+**Aula 05 - Interface**
+
+- Conhecendo interfaces
