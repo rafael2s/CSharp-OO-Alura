@@ -12,46 +12,24 @@ namespace ByteBank
         {
             try
             {
-                ContaCorrente conta = new ContaCorrente(500, 10);
-                ContaCorrente conta2 = new ContaCorrente(510, 10005);
+                ContaCorrente conta1 = new ContaCorrente(1234, 67890);
+                ContaCorrente conta2 = new ContaCorrente(4321, 09876);
 
-                conta2.Transferir(-10, conta);
-
-
-                conta.Depositar(50);
-                Console.WriteLine(conta.Saldo);
-                conta.Sacar(-500);
-                Console.WriteLine(conta.Saldo);
+                //conta1.Transferir(10000, conta2);
+                conta1.Sacar(10000);
             }
-            catch (ArgumentException ex)
+            catch(OperacaoFinanceiraException e)
             {
-                if (ex.ParamName == "numero")
-                {
+                Console.WriteLine(e.Message);
+                Console.WriteLine(e.StackTrace);
 
-                }  
-                Console.WriteLine("Argumento com problema: " + ex.ParamName);
-                Console.WriteLine("Ocorreru uma exceção do tipo ArgumentException");
-                Console.WriteLine(ex.Message);
-            }
-            catch (SaldoInsuficienteException ex)
-            {
-
-                Console.WriteLine(ex.Message);
-                Console.WriteLine("Exceção do tipo SaldoInsuficienteException");
+                //Console.WriteLine("Informações da INNER EXCEPTION (exceção interna):");
+                //Console.WriteLine(e.InnerException.Message);
+                //Console.WriteLine(e.InnerException.StackTrace);
             }
 
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
-            {
-
-                Metodo();
-
-                Console.WriteLine("Execução finalizada. Tecle enter para sair");
-                Console.ReadLine();
-            }
-   
+            Console.WriteLine("Execução finalizada. Tecle enter para sair");
+            Console.ReadLine();               
         }
         //Teste com a cadeia de chamada:
         //Metodo -> TestaDivisao -> Dividir
