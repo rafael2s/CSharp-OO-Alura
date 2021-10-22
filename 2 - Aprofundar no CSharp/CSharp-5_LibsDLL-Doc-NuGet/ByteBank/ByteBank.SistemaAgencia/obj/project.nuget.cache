@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "aeCr2dgdmIuj6mZIrYB/l4Lfds06bFFQpEYUw3Xx/AiRnxyILvVHe40xcxuAozaa2ellIH2Wmq02J8wuqCJvvg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\rssilva\\Desktop\\CURSOS\\Alura2021\\Formacao-cSHARP-OO\\2 - Aprofundar no CSharp\\CSharp-5_LibsDLL-Doc-NuGet\\ByteBank\\ByteBank.SistemaAgencia\\ByteBank.SistemaAgencia.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote Microsoft.NETCore.App.Host.win-x64. Não existe nenhum pacote com esta ID nas origens: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
