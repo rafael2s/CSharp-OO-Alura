@@ -1,0 +1,10 @@
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\2 - Aprofundar no CSharp\CSharp-5_LibsDLL-Doc-NuGet\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\2 - Aprofundar no CSharp\CSharp-5_LibsDLL-Doc-NuGet\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\2 - Aprofundar no CSharp\CSharp-5_LibsDLL-Doc-NuGet\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\2 - Aprofundar no CSharp\CSharp-5_LibsDLL-Doc-NuGet\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\2 - Aprofundar no CSharp\CSharp-5_LibsDLL-Doc-NuGet\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\2 - Aprofundar no CSharp\CSharp-5_LibsDLL-Doc-NuGet\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.AssemblyReference.cache
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\2 - Aprofundar no CSharp\CSharp-5_LibsDLL-Doc-NuGet\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\2 - Aprofundar no CSharp\CSharp-5_LibsDLL-Doc-NuGet\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\2 - Aprofundar no CSharp\CSharp-5_LibsDLL-Doc-NuGet\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\2 - Aprofundar no CSharp\CSharp-5_LibsDLL-Doc-NuGet\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb
