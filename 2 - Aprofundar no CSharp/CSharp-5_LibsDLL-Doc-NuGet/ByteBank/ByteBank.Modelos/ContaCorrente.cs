@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace ByteBank.Modelos
 {
+    /// <summary>
+    /// Denife uma Conta Corrente do banco ByteBank 
+    /// </summary>
     public class ContaCorrente
     {
         private static int TaxaOperacao;
@@ -38,6 +41,11 @@ namespace ByteBank.Modelos
             }
         }
 
+        /// <summary>
+        /// Cria uma instãncia de ContaCorrente com os argumentos utilizados.
+        /// </summary>
+        /// <param name="agencia">Representa o valor da propriedade <see cref="Agencia"/> e deve possuior um valor maior que zero.</param>
+        /// <param name="numero">Representa o valor da propriedade <see cref="Numero"/> e deve possuior um valor maior que zero.</param>
         public ContaCorrente(int agencia, int numero)
         {
             if (numero <= 0)
@@ -55,8 +63,14 @@ namespace ByteBank.Modelos
 
             TotalDeContasCriadas++;
             TaxaOperacao = 30 / TotalDeContasCriadas;
-        }
+        } 
 
+        /// <summary>
+        /// Realiza o saque e atualiza o valor da propriedade <see cref="Saldo"/>
+        /// </summary>
+        /// <exception cref="ArgumentException"> Exceção lançada quando um valor negativo é utilizado no argumento <paramref name="valor"/>. </exception>
+        /// <exception cref="valor"> Exceção lançada quando o valor de <paramref name="valor"/> é maior que o valor da propriedade <see cref="Saldo"/>.</exception>
+        /// <param name="valor">Representa o calor do saque, deve ser maior que zero e menor que o <see cref="Saldo"/></param>
         public void Sacar(double valor)
         {
             if (valor < 0)
