@@ -21,11 +21,11 @@
 **Aula 04 - Documentando**
 
 - Os comentários de documentação '///';
-- O elemento de documentação '<summary/>';
-- O elemento '<param/>';
-- O elemento '<paramref/>';
-- O elemento '<exception/>';
-- O elemento '<see/>'.
+- O elemento de documentação 'summary/';
+- O elemento 'param/';
+- O elemento 'paramref/';
+- O elemento 'exception/';
+- O elemento 'see/'.
 
 **Aula 05 - NuGet**
 
