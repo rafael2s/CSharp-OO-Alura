@@ -18,27 +18,14 @@ namespace ByteBank.SistemaAgencia
             DateTime dataFimPagamento = new DateTime(2021, 12, 26);
             Console.WriteLine(dataFimPagamento);
 
-            TimeSpan diferenca = dataFimPagamento - dataCorrente;
+            TimeSpan diferenca = TimeSpan.FromMinutes(40);//dataFimPagamento - dataCorrente;
 
-            string mensagem = "Vencimento em " + GetIntervaloDeTempoLegivel(diferenca);
+            //string mensagem = "Vencimento em " + GetIntervaloDeTempoLegivel(diferenca);
+            string mensagem = "Vencimento em " + TimeSpanHumanizeExtensions.Humanize(diferenca);
 
             Console.WriteLine(mensagem);
 
             Console.ReadLine();
-        }
-
-        static string GetIntervaloDeTempoLegivel(TimeSpan timeSpan)
-        {
-            if(timeSpan.Days > 30)
-            {
-                int quantidadeMeses = timeSpan.Days / 30;
-                if(quantidadeMeses == 1)
-                {
-                    return "1 mês";
-                }
-                return quantidadeMeses + " meses";
-            }
-            return timeSpan.Days + " dias";
         }
     }
 }
