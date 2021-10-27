@@ -8,29 +8,26 @@ namespace ByteBank.SistemaAgencia
 {
     public class ExtratorValorDeArgumentosURL
     {
+        private readonly string _argumentos;
         public string URL { get; }
 
         public ExtratorValorDeArgumentosURL(string url)
         {
-
-            
-
-
-
-
-
-
-            if (url == null)
-            {
-                throw new ArgumentNullException(nameof(url));
-            }
-
-            if(url == "")
+            if (String.IsNullOrEmpty(url))
             {
                 throw new ArgumentException("O argumento url não pode ser uma string vazia.", nameof(url));
-            }
+            }            
+
+            int indiceInterrogacao = url.IndexOf('?');
+            _argumentos = url.Substring(indiceInterrogacao + 1);
 
             URL = url;
+        }
+        //moedaOrigem=real&moedaDestino=dolar
+        public string GetValor(string nomeParametro)
+        {
+            return "";
+            //int indiceParametro = _argumentos.IndexO
         }
     }
 }

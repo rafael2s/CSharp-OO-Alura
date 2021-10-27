@@ -16,12 +16,28 @@ namespace ByteBank.SistemaAgencia
             // 012345678
 
 
+            // moedaOrigem=real&moedaDestino=real
+            //                  |
+            //-----------------´
 
+            string palavra = "moedaOrigem=real&moedaDestino=dolar";
+            string nomeArgumento = "moedaDestino";
+
+            int indice = palavra.IndexOf(nomeArgumento);
+            Console.WriteLine(indice);
+            
+            Console.WriteLine("Tamanho da string nomeArgumento: " + nomeArgumento.Length);
+
+            Console.WriteLine(palavra);
+            Console.WriteLine(palavra.Substring(indice));
+            Console.WriteLine(palavra.Substring(indice + nomeArgumento.Length + 1));
+            Console.ReadLine();
+
+
+            // Testando o IsNullOrEmpty
             string textoVazio = "";
             string textoNulo = null;
-            string textoQualquer = "kjhfsdjhgsdfjksdf";
-
-
+            string textoQualquer = "Hahahahahaha";
             Console.WriteLine(String.IsNullOrEmpty(textoVazio));
             Console.WriteLine(String.IsNullOrEmpty(textoNulo));
             Console.WriteLine(String.IsNullOrEmpty(textoQualquer));
