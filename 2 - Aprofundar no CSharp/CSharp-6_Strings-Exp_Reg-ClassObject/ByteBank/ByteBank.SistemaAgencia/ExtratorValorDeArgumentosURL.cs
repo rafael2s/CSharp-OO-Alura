@@ -26,8 +26,20 @@ namespace ByteBank.SistemaAgencia
         //moedaOrigem=real&moedaDestino=dolar
         public string GetValor(string nomeParametro)
         {
-            return "";
-            //int indiceParametro = _argumentos.IndexO
+            nomeParametro = nomeParametro.ToUpper(); // VALOR
+            string argumentoCaixaAlta = _argumentos.ToUpper(); //MOEDAORIGEM=REAL&MOEDADESTINO=DOLAR
+
+            string termo = nomeParametro + "="; // moedaDestino=
+            int indiceTermo = argumentoCaixaAlta.IndexOf(termo); // x
+
+            string resultado = _argumentos.Substring(indiceTermo + termo.Length); 
+            int indiceEComercial = resultado.IndexOf('&');
+
+            if(indiceEComercial == -1)
+            {
+                return resultado;
+            }
+            return resultado.Remove(indiceEComercial);
         }
     }
 }
