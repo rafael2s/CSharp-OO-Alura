@@ -12,26 +12,43 @@ namespace ByteBank.SistemaAgencia
     {
         static void Main(string[] args)
         {
-            ContaCorrente[] contas = new ContaCorrente[] 
-            {
-            new ContaCorrente(123, 1111111),
-            new ContaCorrente(123, 2222222),
-            new ContaCorrente(123, 3333333)
-        };
+            ListaDeContaCorrente lista = new ListaDeContaCorrente();
+
+            lista.Adicionar(new ContaCorrente(123, 1111111));
+            lista.Adicionar(new ContaCorrente(123, 2222222));
+            lista.Adicionar(new ContaCorrente(123, 3333333));
+            lista.Adicionar(new ContaCorrente(123, 3333333));
+            lista.Adicionar(new ContaCorrente(123, 3333333));
+            lista.Adicionar(new ContaCorrente(123, 3333333));
+            lista.Adicionar(new ContaCorrente(123, 3333333));
+            lista.Adicionar(new ContaCorrente(123, 3333333));
+            lista.Adicionar(new ContaCorrente(123, 3333333));
+            lista.Adicionar(new ContaCorrente(123, 3333333));
+            lista.Adicionar(new ContaCorrente(123, 3333333));
+            lista.Adicionar(new ContaCorrente(123, 3333333));
+
+            Console.ReadLine();
+
+        }
+
+        static void TestaArrayDeContaCorrente()
+        {
+            ContaCorrente[] contas = new ContaCorrente[]
+{
+                new ContaCorrente(123, 1111111),
+                new ContaCorrente(123, 2222222),
+                new ContaCorrente(123, 3333333)
+};
 
             //contas[0] = new ContaCorrente(123, 1111111);
             //contas[1] = new ContaCorrente(123, 2222222);
             //contas[2] = new ContaCorrente(123, 3333333);
 
-            for(int indice = 0; indice < contas.Length; indice++)
+            for (int indice = 0; indice < contas.Length; indice++)
             {
                 ContaCorrente contaAtual = contas[indice];
                 Console.WriteLine($"Conta {indice} {contaAtual.Numero}");
             }
-
-
-            Console.ReadLine();
-
         }
 
         static void TestaArrayInt()
