@@ -16,33 +16,42 @@ namespace ByteBank.SistemaAgencia
 
             ContaCorrente contaDoGui = new ContaCorrente(546, 546546576);
 
-            lista.Adicionar(contaDoGui);
+            ContaCorrente[] contas = new ContaCorrente[]
+            {
+                contaDoGui,
+                new ContaCorrente(123, 1111111),
+                new ContaCorrente(123, 2222222),
+                new ContaCorrente(123, 3333333)
+            };
 
-            lista.Adicionar(new ContaCorrente(123, 1111111));
-            lista.Adicionar(new ContaCorrente(123, 2222222));
-            lista.Adicionar(new ContaCorrente(123, 3333333));
-            lista.Adicionar(new ContaCorrente(123, 3333333));
-            lista.Adicionar(new ContaCorrente(123, 3333333));
-            lista.Adicionar(new ContaCorrente(123, 3333333));
-            lista.Adicionar(new ContaCorrente(123, 3333333));
-            lista.Adicionar(new ContaCorrente(123, 3333333));
-            lista.Adicionar(new ContaCorrente(123, 3333333));
-            lista.Adicionar(new ContaCorrente(123, 3333333));
-            lista.Adicionar(new ContaCorrente(123, 3333333));
-            lista.Adicionar(new ContaCorrente(123, 3333333));
+            lista.AdicionarVarios(contas);
 
-            lista.EscreverListaNaTela();
+            //lista.EscreverListaNaTela();
 
-            lista.Remover(contaDoGui);
+            //lista.Remover(contaDoGui);
 
-            Console.WriteLine("Após remover o item");
+            //Console.WriteLine("Após remover o item");
 
-            lista.EscreverListaNaTela();
+            //lista.EscreverListaNaTela();
 
-            
+            for(int i = 0; i < lista.Tamanho; i++)
+            {
+                ContaCorrente itemAtual = lista[i];
+                Console.WriteLine($"Item na posição {i} = Conta {itemAtual.Agencia}/{itemAtual.Numero}");
+            }
 
 
             Console.ReadLine();
+        }
+
+        static int SomarVarios(params int [] numeros)
+        {
+            int acumulador = 0;
+            foreach(int numero in numeros)
+            {
+                acumulador += numero;
+            }
+            return acumulador;
         }
 
         static void TestaArrayDeContaCorrente()
