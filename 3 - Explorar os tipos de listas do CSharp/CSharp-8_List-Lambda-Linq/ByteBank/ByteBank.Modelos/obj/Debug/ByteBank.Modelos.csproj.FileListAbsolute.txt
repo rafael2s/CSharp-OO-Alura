@@ -1,0 +1,7 @@
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\3 - Explorar os tipos de listas do CSharp\CSharp-8_List-Lambda-Linq\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\3 - Explorar os tipos de listas do CSharp\CSharp-8_List-Lambda-Linq\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\3 - Explorar os tipos de listas do CSharp\CSharp-8_List-Lambda-Linq\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\3 - Explorar os tipos de listas do CSharp\CSharp-8_List-Lambda-Linq\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\3 - Explorar os tipos de listas do CSharp\CSharp-8_List-Lambda-Linq\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\3 - Explorar os tipos de listas do CSharp\CSharp-8_List-Lambda-Linq\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\rssilva\Desktop\CURSOS\Alura2021\Formacao-cSHARP-OO\3 - Explorar os tipos de listas do CSharp\CSharp-8_List-Lambda-Linq\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
