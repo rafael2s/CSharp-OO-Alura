@@ -17,6 +17,10 @@ namespace ByteBank.SistemaAgencia
             idades.Adicionar(5);
             idades.AdicionarVarios(1, 5, 78);
 
+            
+            
+
+            int idadeSoma = 0;
             for(int i= 0; i < idades.Tamanho; i++)
             {
                 int idadeAtual = idades[i];
@@ -48,7 +52,7 @@ namespace ByteBank.SistemaAgencia
             {
                 acumulador += numero;
             }
-            return acumulador;
+            return acumulador; 
         }
 
         static void TestaArrayDeContaCorrente()
