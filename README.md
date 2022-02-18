@@ -21,14 +21,14 @@ Instrutor: Guilherme Matheus Costa
 Com a orientação a objetos na ponta da língua, vamos aprofundar nosso conhecimento na linguagem aprendendo a tratar situações de erros na execução de nosso código com a utilização de exceptions, vamos ver também como criar bibliotecas e documentação para uma distribuição efetiva de nossas aplicações, além de manipulação de string e expressões regulares para identificação e/ou extração de partes importantes contidas num texto!
 
 - [X] C# parte 4: Entendendo exceções; [Veja o contéudo clicando aqui](https://cursos.alura.com.br/course/csharp-parte-4-excecoes)
-- [ ] C# parte 5: Bibliotecas DLLs, documentação e usando NuGet; [Veja o contéudo clicando aqui](https://cursos.alura.com.br/course/csharp-biblioteca-dll-documentacao-nuget)
-- [ ] C# parte 6: Strings, expressões regulares e a classe Object; [Veja o contéudo clicando aqui](https://cursos.alura.com.br/course/csharp-string-regex-object)
+- [X] C# parte 5: Bibliotecas DLLs, documentação e usando NuGet; [Veja o contéudo clicando aqui](https://cursos.alura.com.br/course/csharp-biblioteca-dll-documentacao-nuget)
+- [X] C# parte 6: Strings, expressões regulares e a classe Object; [Veja o contéudo clicando aqui](https://cursos.alura.com.br/course/csharp-string-regex-object)
 
 ***3 - Explorar os tipos de listas do C#***
 
 Agora vamos aprender a lidar com listas e como utilizar um array, indexadores, Lists, métodos de extensão com generics, IComparable, LinQ e o operador where.
 
-- [ ] C# parte 7: Array e tipos genéricos; [Veja o contéudo clicando aqui](https://cursos.alura.com.br/course/csharp-array-tipo-generico)
+- [X] C# parte 7: Array e tipos genéricos; [Veja o contéudo clicando aqui](https://cursos.alura.com.br/course/csharp-array-tipo-generico)
 - [ ] C# parte 8: List, lambda, linq; [Veja o contéudo clicando aqui](https://cursos.alura.com.br/course/csharp-list-lambda-linq)
 - [ ] C# parte 9: Entrada e saída (I/O) com streams; [Veja o contéudo clicando aqui](https://cursos.alura.com.br/course/csharp-io)
 
