@@ -15,7 +15,46 @@ namespace ByteBank.SistemaAgencia
     {
         static void Main(string[] args)
         {
-            List<int> idades = new List<int>();
+
+            var contas = new List<ContaCorrente>()
+            {
+                new ContaCorrente(341, 57480),
+                new ContaCorrente(342, 45678),
+                new ContaCorrente(343, 48950),
+                new ContaCorrente(290, 18950)
+            };
+
+            contas.Sort();
+
+            foreach (var conta in contas)
+            {
+                Console.WriteLine($"Conta número {conta.Numero}, ag. {conta.Agencia}");
+            }
+           
+
+            Console.ReadLine();
+        }
+
+        static void TestaSort()
+        {
+            var nomes = new List<string>()
+            {
+                "Guilherme",
+                "Wellington",
+                "Luana",
+                "Ana",
+            };
+
+            nomes.Sort();
+
+            foreach (var nome in nomes)
+            {
+                Console.WriteLine(nome);
+            };
+
+
+            //List<int> idades = new List<int>();
+            var idades = new List<int>();
 
             idades.Add(1);
             idades.Add(5);
@@ -25,15 +64,18 @@ namespace ByteBank.SistemaAgencia
             idades.Add(61);
 
             idades.AdicionarVarios(45, 89, 12);
-            // ListExtensoes.AdicionarVarios(idades, 45, 89, 12);
+            //ListExtensoes.AdicionarVarios(idades, 45, 89, 12);
+
+
+            idades.AdicionarVarios(99, -1);
+
+            idades.Sort();
 
 
             for (int i = 0; i < idades.Count; i++)
             {
                 Console.WriteLine(idades[i]);
             }
-
-            Console.ReadLine();
         }
 
         static void TestaListaDeObject()
