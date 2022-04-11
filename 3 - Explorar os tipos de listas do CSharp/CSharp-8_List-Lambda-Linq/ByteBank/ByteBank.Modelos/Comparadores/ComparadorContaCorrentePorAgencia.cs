@@ -26,11 +26,7 @@ namespace ByteBank.Modelos.Comparadores
                 return -1;
             }
 
-            return x.Agencia.CompareTo(y.Agencia);
-
-
-            // Logica escrita manualmente, o CompareTo faz exatamente a mesma coisa.
-            /*if (x.Agencia < y.Agencia)
+            if (x.Agencia < y.Agencia)
             {
                 return -1; // x fica na frente de y
             }
@@ -40,7 +36,13 @@ namespace ByteBank.Modelos.Comparadores
                 return 0; // São equivalente
             }
 
-            return 1; // y fica na frente de x */
+            return 1; // y fica na frente de x 
+
+            /* 
+             * Nossas comparações de números inteiros é equivalente
+             * ao que já existe no tipo INT
+             * return x.Agencia.CompareTo(y.Agencia);
+            */
         }
     }
 }
